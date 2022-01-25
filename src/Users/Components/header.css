@@ -1,0 +1,22 @@
+.logedin{
+  margin-left:1100px;
+
+}
+.login{
+    margin-left: 1100px;
+}
+
+.logout{
+    
+    margin-left: 1100px;
+}
+.social{
+  position: relative;
+  margin-left:75%;
+  margin-top: -35px;
+}
+.socialIcon{
+  height:1.75rem;
+  width:1.75rem;
+}
+

@@ -1,0 +1,27 @@
+.listCard{
+    height:300px;
+}
+
+.cardImg{
+width:150px;
+
+}
+
+@media (max-width: 576px) { 
+    .cardImg{
+        width:100px;
+        margin-left: 180px;
+        }
+        .listCard{
+            height:400px;
+        }
+        .xsmall-body{
+            text-align: center;
+        }
+}
+
+@media (max-width: 992px) { 
+        .cost{
+            width:50%;
+        }
+ }
