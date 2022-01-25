@@ -1,0 +1,59 @@
+{
+  "product": [
+    {
+      "PID": "1",
+      "Pname": "ttshirt",
+      "category_id":1,
+      "sub-category_id":2,
+      "Pcategory": "Fasion",
+      "Psubcategory": "T-shirt",
+      "Pprice": "124",
+      "Pimage": "https://rukminim1.flixcart.com/image/714/857/kjbr8280-0/t-shirt/a/p/1/m-tsrt-118-reya-original-imafyx4vqsmyyduq.jpeg?q=50",
+      "Pbrand": "popo",
+      "Pcolor": "blue",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "Pname": "iphone 13",
+      "Pcategory": "Electronics",
+      "Psubcategory": "Mobiles",
+      "Pprice": "90000",
+      "Pimage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1631220221000",
+      "Pbrand": "apple",
+      "Pcolor": "blue"
+    },
+    {
+      "id": 3,
+      "Product_name": "onepluse 9 pro",
+      "Product_category": "Electronics",
+      "Product_subcategory": "Mobiles",
+      "Product_price": "45000",
+      "Product_image(URL)": "https://m.media-amazon.com/images/I/71YRy9m7fVS._AC_SL1500_.jpg",
+      "Product_brand": "Onepluse",
+      "Product_color": "blue"
+    }
+  ],
+  "product_fashion": [
+    {
+      "id": 1,
+      "Product name": "Strips",
+      "Product category": "Fasion",
+      "Product subcategory": "T-shirt",
+      "Product price": "124",
+      "Product image(URL)": "https://rukminim1.flixcart.com/image/714/857/kjbr8280-0/t-shirt/a/p/1/m-tsrt-118-reya-original-imafyx4vqsmyyduq.jpeg?q=50",
+      "Product brand": "bluewe",
+      "Product color": "blue"
+    },
+    {
+      "id": 2,
+      "Product name": "Strips",
+      "Product category": "Fasion",
+      "Product subcategory": "T-shirt",
+      "Product price": "124",
+      "Product image(URL)": "https://rukminim1.flixcart.com/image/714/857/kjbr8280-0/t-shirt/a/p/1/m-tsrt-118-reya-original-imafyx4vqsmyyduq.jpeg?q=50",
+      "Product brand": "bluewe",
+      "Product color": "blue"
+    }
+  ]
+}

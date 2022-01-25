@@ -1,0 +1,34 @@
+.carousel-inner{
+    height: 350px;
+}
+
+.cardimg{
+    height:250px;
+}
+
+.rie{
+    margin-left:250px;
+}
+
+/* .carImg{
+   width: 50%;
+} */
+/* .quick{
+    margin-right: 50px;
+} */
+.text{
+    text-decoration: none;
+}
+
+@media (max-width: 576px) { 
+    .quickImg{
+       
+       margin-right: 80px !important;
+    }
+}
+@media (max-width: 992px) { 
+    .quickImg{
+        width: 30%;
+        margin-left:230px;
+    }
+  }
